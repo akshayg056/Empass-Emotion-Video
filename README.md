@@ -14,7 +14,7 @@ These are all the different approaches that have been tried for the successful i
 
 1)6 different CNN models have been trained on the FER2013 dataset mixed with the newly generated dataset.
 
-2)4 CNN models have been trained on the kaggle facial emotion dataset with the newly generated dataset.
+2)4 CNN models have been trained on the kaggle facial emotion dataset with the newly generated dataset and also the CK+ dataset.
 
 3)Use of SVM for facial emotion recogniton using facial landmarks with the newly generated dataset.
 
