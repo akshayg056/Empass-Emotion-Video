@@ -20,3 +20,5 @@ These are all the different approaches that have been tried for the successful i
 
 4)Training CNN models on canny edge converted images of the kaggle dataset with the newly generated dataset.
 
+5)Use of Capsule Net for emotion recogniton.
+
